@@ -34,6 +34,13 @@ LinkedIn: https://www.linkedin.com/in/umarmoiz/
 
 Email: umarmoiz@gmail.com
 
+Frameworks/Skills: Node.js, React.js, Mongo, Express, ROS, Numpy, Pandas, Tensorflow, PyTorch, HTML, CSS, Git, Linux, Docker
+
+Languages: JavaScript/TypeScript, C++, Python, Java, MySQL/PostgreSQL, HTML5/CSS3, ROS, Verilog
+
+
+
+
 
 
    <p align="left">
