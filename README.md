@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 **`ML Ops Engineer(Developer/Engineer)`**
 
-I'm a software engineer tasked with implementing generative AI applications at the bank. Within the GENAI team, my responsibilities included conducting performance comparisons for various open/closed source Language Model (LLM) models. Additionally, I played a key role in optimizing and deploying these models for specific use cases within the bank. My primary focus was on maximizing model performance on GPUs to ensure scalability as the number of users increased.
+I'm a software engineer tasked with implementing generative AI applications at the development bank of Singapore. Within the GENAI team, my responsibilities included conducting performance comparisons for various open/closed source Language Model (LLM) models. Additionally, I played a key role in optimizing and deploying these models for specific use cases within the bank. My primary focus was on maximizing model performance on GPUs to ensure scalability as the number of users increased.
 
    <p align="left">
 <!--       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
