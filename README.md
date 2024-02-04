@@ -27,6 +27,15 @@ Here are some ideas to get you started:
 
 I'm a software engineer tasked with implementing generative AI applications at the development bank of Singapore. Within the GENAI team, my responsibilities included conducting performance comparisons for various open/closed source Language Model (LLM) models. Additionally, I played a key role in optimizing and deploying these models for specific use cases within the bank. My primary focus was on maximizing model performance on GPUs to ensure scalability as the number of users increased.
 
+
+### Ways to reach me
+
+LinkedIn: https://www.linkedin.com/in/umarmoiz/
+
+Email: umarmoiz@gmail.com
+
+
+
    <p align="left">
 <!--       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
